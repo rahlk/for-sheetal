@@ -21,5 +21,7 @@ Putting it all together
 
 ![](http://i.giphy.com/s0z685OFhWyuk.gif)
 
+As an exercise do follow [**this**](https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/) guide. It combines Flask, JS, and D3 to create an Webpage that visualizes REAL DATA. 
+*Feel free to skip deployment on Dokku for now*
 This list goes on. I'll stop here for now. Call me when you get this far and I'll update this page.
 
