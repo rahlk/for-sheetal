@@ -1,5 +1,6 @@
 Javascript
 ===
+0. Use this as a notepad to test you JS codes> [JSFiddle](https://jsfiddle.net/)
 1. A good place to start. Tutorials point [tut](https://www.tutorialspoint.com/javascript/index.htm)
 2. These video tutorials to go with:
     + 1 hour tutorial. Listen and follow along. [Link](https://www.youtube.com/watch?v=fju9ii8YsGs)
