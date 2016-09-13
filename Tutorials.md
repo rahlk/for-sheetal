@@ -16,12 +16,13 @@ Ok these two are for Data Visualization. A bit advanced, but do learn some sampl
 Finally, since you now know Python. Check out [Flask](http://flask.pocoo.org/). Flask lets you combine HTML and JS with Python to create amazing webpages. With these tools, you can now create an entire framework front-to-back. 
     + This [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) will teach you flask. It's long, but **very** useful!
     
-Putting it all together
+Putting it all together: An Exercise For You
 ---
 
 ![](http://i.giphy.com/s0z685OFhWyuk.gif)
 
 As an exercise do follow [**this**](https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/) guide. It combines Flask, JS, and D3 to create an Webpage that visualizes REAL DATA. 
 *Feel free to skip deployment on Dokku for now*
-This list goes on. I'll stop here for now. Call me when you get this far and I'll update this page.
+
+*There's a lot more, but I'll stop here for now. Call me when you get this far and I'll update this page.*
 
