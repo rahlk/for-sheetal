@@ -23,7 +23,7 @@ Ok these two are for Data Visualization. A bit advanced, but do learn some sampl
   + Interactive charts with Crossfilter -> http://square.github.io/crossfilter/
 
 Finally, since you now know Python. Check out [Flask](http://flask.pocoo.org/). Flask lets you combine HTML and JS with Python to create amazing webpages. With these tools, you can now create an entire framework front-to-back. 
-    + This [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) will teach you flask. It's long, but **very** useful!
++ This [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) will teach you flask. It's long, but **very** useful!
     
 Putting it all together: An Exercise For You
 ---
