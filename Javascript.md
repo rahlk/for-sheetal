@@ -1,3 +1,11 @@
+Master GIT
+===
+First things first
+Complete this tutorial -> http://learngitbranching.js.org/
+
+Pay attention. Git is the best.
+
+
 Javascript
 ===
 0. Use this as a notepad to test you JS codes [JSFiddle](https://jsfiddle.net/)
