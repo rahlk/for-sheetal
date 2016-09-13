@@ -17,6 +17,7 @@ Javascript
 Those were the basics, now for the fun part. Get familiar with these libraries for interactive visualizations with JS. 
   + Bootstrap: For reactive webpages
     - [Video tutorial](https://www.youtube.com/watch?v=gqOEoUR5RHg). Warning! This video covers a lot of material. I advice you pause and implement as you go. 
+    - This [video tutorial](https://www.youtube.com/watch?v=59cIRELecI0) is even larger. Try it.
 
 Ok these two are for Data Visualization. A bit advanced, but do learn some samples. They'll go a long way. 
   + D3JS: A data visualizer -> https://d3js.org/
